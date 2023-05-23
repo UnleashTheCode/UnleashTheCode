@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UnleashTheCode
-- 👀 I’m interested in Hacking, Python, Crypto and others
+- 👀 I’m interested in Hacking, Python and others
 
 <!---
 UnleashTheCode/UnleashTheCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
